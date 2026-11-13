@@ -9,5 +9,8 @@ data/
 # Trained weights (large binary files)
 results/*.pt
 
+# Screenshots
+Screenshot*.png
+
 # macOS
 .DS_Store
