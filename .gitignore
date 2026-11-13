@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Data (downloaded automatically)
+data/
+
+# Trained weights (large binary files)
+results/*.pt
+
+# macOS
+.DS_Store
